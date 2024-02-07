@@ -9,11 +9,11 @@ The model is trained on tennis match data from 2010 to 2023 and evaluated on mat
 
 The model's performance was assessed through multiple testing phases:
 
-**1. Test on 2023 Data:** The model was tested on tennis matches from the year 2023, resulting in an accuracy of 93.9%.
+1. **Test on 2023 Data:** The model was tested on tennis matches from the year 2023, resulting in an accuracy of 93.9%.
 
-**2. Test on 2024 Data:** Following this, the model was evaluated on matches from 2024, achieving an accuracy of 93.91%.
+2. **Test on 2024 Data:** Following this, the model was evaluated on matches from 2024, achieving an accuracy of 93.91%.
 
-**3. Prediction for New Matches:** Currently, the model is being utilized to predict the outcomes of matches that occurred in the past few days. The accuracy for these predictions is 80% so far.
+4. **Prediction for New Matches:** Currently, the model is being utilized to predict the outcomes of matches that occurred in the past few days. The accuracy for these predictions is 80% so far.
 
 
 ## Dataset
