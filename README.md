@@ -1,10 +1,10 @@
-**# Tennis Match Prediction Model**
+# Tennis Match Prediction Model
 
 This project aims to develop a machine learning model to predict the outcomes of tennis matches based on historical data. 
 The model is trained on tennis match data from 2010 to 2023 and evaluated on matches from 2024.
 
 
-**## Testing Process and Accuracy of the model:**
+## Testing Process and Accuracy of the model:
 
 The model's performance was assessed through multiple testing phases:
 
@@ -13,7 +13,7 @@ The model's performance was assessed through multiple testing phases:
 **3. Prediction for New Matches:** Currently, the model is being utilized to predict the outcomes of matches that occurred in the past few days. The accuracy for these predictions is 80% so far.
 
 
-**## Dataset**
+## Dataset
 Tennis databases and files by Jeff Sackmann / Tennis Abstract is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Based on a work at https://github.com/JeffSackmann.
 
